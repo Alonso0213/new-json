@@ -1,0 +1,39 @@
+{"testimonials": [
+    { 
+    "id": "1", 
+    "image": "https://i.postimg.cc/L6Kb0T1c/20230510-091639.jpg",
+     "name":"Mujahhid",
+    "description": "Alonso a man that is always ready for battle. He does not coward away from a challenge. When every you need his assistance he will jump into action and help. There is many more things to say about Alonso and that is just he is a action taker not a by stander."
+     },
+     { 
+    "id": "2", 
+    "image": "https://i.postimg.cc/PqrcQ5wN/IMG-20230510-WA0012.jpg",
+    "name":"Logan",
+    "description": "After working with Alonso for the past months I've come to notice that he is an great person with excellent work ethics. I worked with him on past projects and he has been a good team player."
+     },
+     { 
+    "id": "3", 
+    "image": "https://i.postimg.cc/RFJgg6VC/C12-C2-Amy-Pieterse-2.jpg",
+     "name" :"Amy",
+    "description": "I would highly recommend Alonso to anyone in need of a talented and dedicated web developer. He has strong attention to detail and ability to solve problems."
+     },
+     { 
+    "id": "4", 
+    "image": "https://i.postimg.cc/9fM8qg67/C12-Keeno-Fourie-1.jpg",
+       "name":"Keeno",
+    "description": "Alonso is a hard-working individual with a passion for coding. I've seen his commitment first hand and it is an encouragement to everyone around him. He is a helpful person with an understanding of web development and all it's concepts. He is an individual you will be happy to have in your corner."
+     },
+     { 
+    "id": "5", 
+    "image": "https://i.postimg.cc/3wSqSQX1/Port-Image.jpg",
+      "name":"Seth",
+    "description": "Alonso is dedicated, hard working and a team player. He works well his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him."
+     },
+     { 
+    "id": "6", 
+    "image": "",
+      "name":"someone",
+    "description": "Alonso is dedicated, hard working and a team player. He works well his peers and performs well on his projects. He has a good understanding of web development and would be a valuable addition to any team that is lucky enough to have him."
+     }
+    ]
+}
